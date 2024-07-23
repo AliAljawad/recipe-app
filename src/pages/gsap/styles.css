@@ -1,0 +1,19 @@
+.animated-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #FFBE30; /* Background color, adjust as needed */
+    text-align: center; /* Center align text */
+  }
+  
+  .animated-text {
+    font-size: 2rem;
+    margin: 0.5rem 0;
+  }
+  
+  .animated-text:nth-child(2) {
+    font-size: 1.5rem;
+  }
+  

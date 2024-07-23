@@ -8,4 +8,5 @@ export const routes = {
   addRecipe:'/Dashboard/addRecipe',
   userRecipes:'/Dashboard/view-recipes',
   favorites:'/Dashboard/favorites',
+  gsap:'/gsap',
 };
